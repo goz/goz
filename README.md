@@ -1,4 +1,4 @@
-# Hi there, I'm goz 👋
+# Hi there, I'm Goz 👋
 
 I'm a Software Engineer—mostly writing code, sometimes breaking things, and always learning. I’d call my skills “average at best” but I believe showing up and building is what counts most.
 
