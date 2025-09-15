@@ -1,4 +1,3 @@
 # Hi there, I'm Goz 👋
 
-I'm a Software Engineer (apparently) — mostly writing code, sometimes breaking things, and always learning. 
-Still Googling errors, still asking LLMs for answers — just know enough to keep the lights on.
+I write code for a living. It runs… most of the time. The rest of the time I’m googling, asking AI, or pretending it’s a feature.
