@@ -1,3 +1,5 @@
 # Hi there, I'm Goz 👋
 
-I write code for a living. It runs… most of the time. The rest of the time I’m googling, asking AI, or pretending it’s a feature.
+I write software — sometimes elegantly, sometimes experimentally. Most days things run smoothly; on the others, I learn, adjust, and keep going.
+Right now, I build resilient services at Apple.
+In a past life, I made it through Meta’s engineering bootcamp and worked on payments at Visa.
