@@ -1,3 +1,3 @@
-# Hi there, I'm Goz 👋
-
-I help keep large-scale systems steady and users free from downtime and hidden misery. Still learning to make technology feel effortless for the people who use it.
+I’m Goz, a software engineer in Singapore.
+I work on reliability and observability—systems that are expected to work quietly.
+I grew up in a small Indonesian city, during the years when [OM PMR](https://www.youtube.com/watch?v=t4QuTuMUxhY) ruled the radio and everyone knew the lyrics.
